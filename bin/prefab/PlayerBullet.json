@@ -1,0 +1,1 @@
+{"type":"Image","props":{"y":0,"x":0,"width":63,"skin":"bullet/001.png","presetID":1,"name":"PlayerBullet","isPresetRoot":true,"height":115,"anchorY":0.5,"anchorX":0.5},"compId":12,"child":[{"type":"Script","props":{"presetID":2,"runtime":"Componments/Prefabs/PlayerBullet.ts"},"compId":13}],"loadList":["bullet/001.png"],"loadList3D":[]}

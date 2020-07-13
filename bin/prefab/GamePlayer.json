@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"width":63,"presetID":1,"name":"GamePlayer","mouseThrough":true,"isPresetRoot":true,"height":115},"compId":10,"child":[{"type":"Script","props":{"presetID":2,"runtime":"Componments/Prefabs/GamePlayer.ts"},"compId":11}],"loadList":[],"loadList3D":[]}
